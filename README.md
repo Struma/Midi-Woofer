@@ -18,5 +18,5 @@ Since I intially tried and failed to compile Vusb on the attiny85 I was looking 
   <img src="imgs/main_board.jpg" alt="serv"  width="600" />
 </p>
 
-## Ode to Hunter
+## Hunter
 A friend in college made an honest attempt to modify kids toys to use in music performances, not unlike the odd folk band Coco Rosie. A talented musician and artist, Hunter loved music and despite his lack of success using the toys (from what I remember), he was passionate in the way one can't help but respect. I thought of him while making this guitar and I'm satisfied that I made an instrument that does right by Hunter and those who dream.
