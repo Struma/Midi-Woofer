@@ -5,7 +5,7 @@ Comes with custom Midipup library to make key mapping with MIDIUSB simple!
 
 <p align="center">
   <img src="imgs/main_map.jpg" alt="serv"  width="600" />  
-  <img src="imgs/final_back.jpg" alt="serv"  width="600" />
+  <img src="imgs/Final_back.jpg" alt="serv"  width="600" />
 </p>
 
 ## A Dream Come True
