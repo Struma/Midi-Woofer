@@ -3,6 +3,10 @@ Converted Woofer guitar kids toy into a fun midi controller with amplifier!
 
 Comes with custom Midipup library to make key mapping with MIDIUSB simple!
 
+<p align="center">
+  <img src="imgs/main_map.jpg" alt="serv"  width="600" />
+</p>
+
 ## A Dream Come True
 It has been a lifelong dream of mine to hack together an instrument. I never imagined that I would make something so amazing. 
 
