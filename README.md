@@ -1,5 +1,5 @@
 # Midi-Woofer
-Converted Woofer guitar kids toy into a fun midi controller with amplifier!
+Converted Woofer guitar kids toy into a fun midi controller with amplifier!\n
 Comes with custom Midipup library to make key mapping with MIDIUSB simple!
 
 
